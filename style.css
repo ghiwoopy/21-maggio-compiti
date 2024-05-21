@@ -1,0 +1,23 @@
+.foto-principale{
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.titoletto{
+   text-align: center;
+
+}
+h2{
+    color: red;
+    display: flex;
+justify-content: center;
+}
+.card-allineate{
+    align-items: center ;
+    
+
+}
