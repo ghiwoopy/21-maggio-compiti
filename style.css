@@ -17,7 +17,29 @@ h2{
 justify-content: center;
 }
 .card-allineate{
-    align-items: center ;
+    align-items: center;
+    padding: 59px;
     
 
 }
+.navvbar{
+    background-color: blue;
+}
+.super-container{
+  
+    position: absolute;
+
+
+}
+.giacomo{
+    color: rgb(20, 133, 232);
+
+    position:relative;
+    text-align:center ;
+    
+    bottom: 160px;
+    }
+    .cardd{
+        
+        box-shadow: crimson;
+    }
