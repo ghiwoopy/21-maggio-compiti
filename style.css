@@ -1,4 +1,9 @@
+body {
+
+    background-color: rgb(208, 208, 224);
+}
 .foto-principale{
+    border-radius: 25%;
     text-align: center;
 }
 
@@ -6,15 +11,22 @@ h1 {
     text-align: center;
 
 }
+.titolo{
+    color: rgb(0, 0, 9);
+}
 
 .titoletto{
    text-align: center;
+   color: rgb(71, 15, 175);
 
 }
 h2{
-    color: red;
+   
+    color: rgb(6, 16, 207);
     display: flex;
 justify-content: center;
+position:relative;
+top:60px;
 }
 .card-allineate{
     align-items: center;
@@ -25,21 +37,37 @@ justify-content: center;
 .navvbar{
     background-color: blue;
 }
+.container{
+    
+}
 .super-container{
-  
-    position: absolute;
+  position: 100%;
+    position: relative;
 
 
 }
 .giacomo{
-    color: rgb(20, 133, 232);
+    color: rgb(229, 236, 243);
 
     position:relative;
     text-align:center ;
     
-    bottom: 160px;
+    bottom: 120px;
     }
-    .cardd{
+
+    .piccolefoto{
+
         
-        box-shadow: crimson;
+       margin-top: 100px;
     }
+    .liste{
+        position: relative;
+        right: 40px;
+ }
+ .fixed{
+    margin-bottom: 50px;
+   
+ }
+   .accordiondescription{
+    font-size:larger;
+   }
